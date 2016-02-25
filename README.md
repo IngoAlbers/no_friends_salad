@@ -1,5 +1,7 @@
 #You don't win friends with salad!
 
+[![Join the chat at https://gitter.im/IngoAlbers/no_friends_salad](https://badges.gitter.im/IngoAlbers/no_friends_salad.svg)](https://gitter.im/IngoAlbers/no_friends_salad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/IngoAlbers/no_salad_friends](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IngoAlbers/no_salad_friends?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Simpsons already did it!  
 And now **you** can also do it.  
